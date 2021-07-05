@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developer7-creator
+- 👋 Hi, I’m Inzamamul.
 - 👀 I’m interested in contributing to open source projects.
 - 🌱 I’m currently learning javascript, nodejs, express and mongodb.
 - 💞️ I’m looking to collaborate on backend javascript nodejs/express projects.
